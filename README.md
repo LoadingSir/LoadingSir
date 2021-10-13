@@ -1,5 +1,9 @@
 ### Hi there 👋
-i just shat myslef
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: https://discord.gg/YrJF9N9v
+- ⚡ Fun fact: I am approaching your location rapidly
 
 <!--
 **LoadingSir/LoadingSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
