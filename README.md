@@ -1,3 +1,3 @@
-I can do Python.
-I am learning Kotlin.
-Contact me at almusratiahmad@gmail.com
+- I can do Python.
+- I am learning Kotlin.
+- Contact me at almusratiahmad@gmail.com
