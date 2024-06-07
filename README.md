@@ -9,8 +9,8 @@ I am an England based Computer Science student at <a href = "https://www.utcread
 
 ## What I am currently working on:
   - Analysing the 2024 Skeleton Code from AQA
-  - Creation of my NEA project, a music recommendation software (Python)
-  - Creation of a maths essentials file (Haskell)
+  - A music recommendation software (Python)
+  - Maths essentials file (Haskell)
 
 ## Where to contact me:
   - E-mail: almusratiahmad@gmail.com
