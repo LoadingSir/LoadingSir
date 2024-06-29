@@ -7,11 +7,6 @@ I am an England based Computer Science student at <a href = "https://www.utcread
   - C# (Beginner)
   - Haskell (Beginner)
 
-## What I am currently working on:
-  - Analysing the 2024 Skeleton Code from AQA
-  - A music recommendation software (Python)
-  - Maths essentials file (Haskell)
-
 ## Where to contact me:
   - E-mail: almusratiahmad@gmail.com
   - Discord: @LoadingSir
