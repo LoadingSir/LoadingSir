@@ -6,6 +6,7 @@ I am an England based Computer Science student with an end goal to work in game 
   - Python (Intermediate)
   - C# (Beginner)
   - Haskell (Beginner)
+  - Java (Beginner)
 
 ## Trying to learn:
   - Rust
